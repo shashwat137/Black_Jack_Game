@@ -42,4 +42,4 @@ Follow the onscreen instructions and play.
 
 ### Acknowledgements
 * Link to the Tutorial from which the game was made - [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
-* I made this project as personal project to learn and have fun. Incorporated OOP in Python to get a better command of OOP.
+* I made this as a personal project to learn and have fun. Incorporated OOP in Python to get a better command of OOP.
