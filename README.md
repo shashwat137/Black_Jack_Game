@@ -21,8 +21,13 @@ Anaconda Prompt
 
 ### Running the Program
 Go to the location of the [blackjack.py](blackjack.py) on the command line. To run it enter the following.
+On Windows:
 ```
 python blackjack.py
+```
+On Linux/Mac:
+```
+python hangman.py
 ```
 Alternatively, you may run the program on Jupyter Notebook. Open Anaconda Prompt and move to the directory where the [blackjack.py](blackjack.py) is stored. Enter the following in Anaconda Prompt.
 ```
