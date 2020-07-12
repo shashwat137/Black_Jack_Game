@@ -27,7 +27,7 @@ python blackjack.py
 ```
 On Linux/Mac:
 ```
-python hangman.py
+python3 hangman.py
 ```
 Alternatively, you may run the program on Jupyter Notebook. Open Anaconda Prompt and move to the directory where the [blackjack.py](blackjack.py) is stored. Enter the following in Anaconda Prompt.
 ```
