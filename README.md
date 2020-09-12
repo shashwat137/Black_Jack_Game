@@ -1,3 +1,4 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 # Black_Jack_Game
 Black Jack game in Python between a player and computer.
 The computer acts as the dealer while player can bet on games.
